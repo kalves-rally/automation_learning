@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'cucumber', '1.3.16'
+gem 'rspec', '3.0.0'
+gem 'rspec-expectations', '3.0.4'
+gem 'page-object', '1.0.2'
+gem 'faker', '1.4.3'
+gem 'data_magic', '0.19'
+gem 'require_all', '1.3.2'
+gem 'capybara', '2.4.1'
+gem 'watir'
